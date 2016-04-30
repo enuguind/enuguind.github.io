@@ -1,0 +1,21 @@
+{
+  "name": "enuguindustrial",
+  "description": "A website for Enugu Industrial Park",
+  "main": "nil",
+  "authors": [
+    "Tobenna Ndu <t.ndu@sedic.ng>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/enuguind/enuguind.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}

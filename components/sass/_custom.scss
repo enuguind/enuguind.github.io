@@ -25,3 +25,7 @@
   font-size: 0.8rem;
   text-transform: uppercase;
 }
+
+.navbar-nav .active > .nav-link {
+    border-bottom: 1px solid $navbar-light-active-color;
+}
